@@ -91,14 +91,18 @@ olympic-athletes-analysis/
 
 ## 🚀 How to Use
 
-### Prerequisites
-```bash
-pip install pandas plotly
-```
+### View the Analysis
 
-### Run the Analysis
-1. Open the Jupyter notebook: `olympic-athletes-analysis.ipynb`
-2. Execute cells sequentially to:
+**Option 1: On Kaggle (No Installation Required)**
+- Visit the interactive notebook on Kaggle: [olympic-athletes-analysis](https://www.kaggle.com/code/robertasumeng/olympic-athletes-analysis)
+- Explore results directly in your browser with pre-computed outputs
+
+**Option 2: Run Locally**
+1. Clone the repository: `git clone https://github.com/rasumeng/olympic-athletes-analysis.git`
+2. Navigate to the project folder
+3. Install dependencies: `pip install pandas plotly`
+4. Open the Jupyter notebook: `olympic-athletes-analysis.ipynb`
+5. Execute cells sequentially to:
    - Load and explore the dataset
    - Perform demographic analysis
    - Generate visualizations
