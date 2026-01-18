@@ -1,5 +1,8 @@
 # Olympic Athletes Analysis: Exploratory Data Analysis
 
+[![Kaggle](https://img.shields.io/badge/Kaggle-View%20Notebook-20BEFF?logo=kaggle)](https://www.kaggle.com/code/robertasumeng/olympic-athletes-analysis)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/rasumeng/olympic-athletes-analysis)
+
 ## 📊 Project Overview
 
 This project presents a comprehensive exploratory data analysis (EDA) of Olympic medalists spanning **120 years** (1896-2016). The analysis uncovers demographic patterns, performance trends, and fascinating insights into what distinguishes Olympic champions across different sports, countries, and time periods.
