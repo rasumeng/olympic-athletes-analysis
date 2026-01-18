@@ -78,7 +78,7 @@ This project presents a comprehensive exploratory data analysis (EDA) of Olympic
 
 ```
 olympic-athletes-analysis/
-├── olympic-athletes-analysis.ipynb    # Main EDA notebook
+├── olympic-athletes-analysis.ipynb    # Main EDA notebook with complete analysis
 ├── datasets/
 │   └── olympics.csv                   # Olympic medalists dataset (1896-2016)
 └── README.md                          # This file
